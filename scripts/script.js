@@ -1,1 +1,4 @@
-ECHO est† ativado.
+function mostrarMensagem(){
+document.getElementsByTagName("mensagem").innerHTML =
+"parabens! seu projeto est√° funcionando corretamente.";
+}
